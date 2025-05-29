@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "c1c7e160-9eb2-400d-a79a-1a7e329747c0": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/274/968/original/274968_1748444044_spokenweb_ualberta_in_360_4ki.mp4.mp4?1748444409",
+      "duration": 361.09407
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "360 video"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-29T16:49:14.676Z",
+  "created_by": "saamturner",
+  "item_type": "Video",
+  "label": "360° Video and Ambisonic Audio as a Method of Re-Sounding",
+  "updated_at": "2025-05-29T16:49:14.676Z",
+  "updated_by": "saamturner"
+}
