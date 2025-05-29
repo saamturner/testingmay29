@@ -1,5 +1,33 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "360 video recorded by Natasha",
+              "bold": true,
+              "color": "#8e9d43"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Location",
+          "tag": "spokenweb"
+        },
+        {
+          "category": "Format",
+          "tag": "video"
+        }
+      ],
+      "uuid": "3377d30c-4623-4d7a-9f85-815f9899f31c"
+    }
+  ],
   "set": "Default",
   "event_id": "3764590c-38c6-4693-863c-c439d94f78a5",
   "source_id": "c1c7e160-9eb2-400d-a79a-1a7e329747c0"
