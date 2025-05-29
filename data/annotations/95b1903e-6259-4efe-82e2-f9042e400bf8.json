@@ -1,0 +1,996 @@
+{
+  "event_id": "7e5cc790-0e58-47a1-a912-ffb26233ebe6",
+  "source_id": "499bfb03-0e79-468c-b0ef-86c9570541e0",
+  "set": "[Deepgram Transcript] 1985-99-16-a.wav [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0.11991,
+      "end_time": 3,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Hello, and welcome to Celebrations."
+        }
+      ],
+      "tags": [],
+      "uuid": "80d25e6d-b6fb-41e5-859a-ceb4cdc5611c"
+    },
+    {
+      "start_time": 3,
+      "end_time": 42.08255,
+      "annotation": [
+        {
+          "text": "Music:",
+          "bold": true
+        },
+        {
+          "text": " [Instrumental Brass]"
+        }
+      ],
+      "tags": [],
+      "uuid": "ac5296a9-1c12-481b-b8e7-801a50262074"
+    },
+    {
+      "start_time": 42.08255,
+      "end_time": 79.25278,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " We are pleased to welcome, as our guest tonight, novelist and short story writer Matt Cohen. Born in Kingston, Ontario in 1942, he was initially a student of political economy, but soon abandoned this field of study to pursue a career as a writer. He is now the author of a string of 10 books that begins with his first novel, "
+        },
+        {
+          "text": "Korsoniloff",
+          "italic": true
+        },
+        {
+          "text": ", published in 1969, and extends to his latest collection of stories, titled "
+        },
+        {
+          "text": "Café le Dog",
+          "italic": true
+        },
+        {
+          "text": ". We begin our profile of one of Canada's most prolific young writers with a reading that he gave at the University of Alberta in March of 1982."
+        }
+      ],
+      "tags": [],
+      "uuid": "8dbdd13a-8e70-4f18-ba9c-5e84f3082a02"
+    },
+    {
+      "start_time": 79.25278,
+      "end_time": 119.12645,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " You'll have to excuse me reading from, odd formats here because, while I was flying to Calgary on the airplane, I was reading a book which somehow didn't hold my attention. So I ended up writing a story on the end papers. [Audience Laughs] But due to the depression of the Canadian publishing industry, there weren't enough end papers to fit in a story. [Audience Laughs] So I had to switch to a notebook. Anyway, this story, it's probably a pretty tragic event with which to start such a festive weekend, but it's called \"Death of a Guppy.\""
+        }
+      ],
+      "tags": [],
+      "uuid": "ca97433c-16f9-4216-93cd-7936fc3abf30"
+    },
+    {
+      "start_time": 119.12645,
+      "end_time": 149.65039,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " My mother had a job supervising the care of under-privileged children. So to ease the burden of housework, she hired a cleaning lady to come once a week. Her name was Mrs. Lusk, though that was not what we called her. This was during the era of my family's prosperity, when we had moved to a four-bedroom house in Ottawa West. I was attending high school then. As befitting an educational institution in the nation's capital, it had a strong emphasis on mental health."
+        }
+      ],
+      "tags": [],
+      "uuid": "78868a43-f33a-4a30-a0ad-88ef1d9c1b6e"
+    },
+    {
+      "start_time": 149.65039,
+      "end_time": 196,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " In Grade 10 for example, we were required to write an essay on the hazards of marijuana. At the time, I was 13 years old and had never even tasted coffee. Nonetheless, my essay received an A-minus. According to the health teacher who was actually the basketball coach, reefers were sold in a place called Seed's. This pool hall, only a few hundred yards from our high school, was a low smoky room, inhabited by senior students and a few out of work men who wore baggy flannel pants and plaid shirts. They showed none of the effects of reefer madness, as it was called, especially those horrible cancers, which I had described with such telling effect in my essay."
+        }
+      ],
+      "tags": [],
+      "uuid": "43ef8cc8-d376-4089-bd23-04af61d8a261"
+    },
+    {
+      "start_time": 196,
+      "end_time": 211.495,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Among the cleaning lady's tasks was doing the washing and ironing. One afternoon, she suggested that my brother and I take our trousers off, so she could iron them, too. After that, we called her Mrs. Lust. [Audience Laughs]"
+        }
+      ],
+      "tags": [],
+      "uuid": "aa74deac-e6ee-4065-aaa2-b2e238ee04c8"
+    },
+    {
+      "start_time": 211.495,
+      "end_time": 235.52628,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Mrs. Lust had a boyfriend who hung out at Seed's. In the afternoons, after school but before my mother came home from her missions of mercy, he would park his fat Chevrolet in front of our house and visit Mrs. Lust, who was married to another man. The boyfriend was tall and slack-bellied with black hair slick down like Elvis Presley's. We liked him."
+        }
+      ],
+      "tags": [],
+      "uuid": "4c9358cb-1c42-42a7-ae91-cf49f429d259"
+    },
+    {
+      "start_time": 235.52628,
+      "end_time": 268.8324,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " However, he never offered us a cigarette, filled with marijuana or otherwise. So at this time in our lives, we were entirely free from the perils of drug addiction. In fact, the boyfriend, whose name was never spoken, possibly for reasons of discretion, had a mania for hot dogs well-slathered with mustard. Ready cooked and in a bun, he would bring these hot dogs to the house. And they would be shared among himself, my brother and myself, Mrs. Lust, and our budgie, Benny the budgie."
+        }
+      ],
+      "tags": [],
+      "uuid": "c1c94b46-5e56-4018-a2de-98a2d81a95db"
+    },
+    {
+      "start_time": 268.8324,
+      "end_time": 291.73923,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Benny was not the only budgie in the neighborhood. The girl next door had one. Her mother was a war widow, and her budgie could say \"bye bye\" if it was fed potato chips. Our budgie couldn't say anything. That is why we started to give it bits of hot dog. These bits of hot dog caused the budgie's feathers to fall out. [Audience Laughs]"
+        }
+      ],
+      "tags": [],
+      "uuid": "1b1103ed-1af1-4a04-b64f-3e27ae97cc9c"
+    },
+    {
+      "start_time": 291.73923,
+      "end_time": 323.93594,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Also it became very neurotic. The budgie's neurosis distressed my father so much, that every evening when he came home, he would let the budgie out and it would fly to the drapes, where it would flutter its featherless wings and go to the bathroom. To keep up the family morale, we decided to get a guppy. We already had a dog in a previous house and era, but the dog, a boxer, so frightened my mother with the insistent sounds it made from his debarked larynx that it was returned to the veterinarian."
+        }
+      ],
+      "tags": [],
+      "uuid": "c7ba38bd-1dfc-4ec5-9c99-5fe225f3ddfd"
+    },
+    {
+      "start_time": 323.93594,
+      "end_time": 349,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " The guppy came with an aquarium and an automatic filter. Other fish followed for company, but Gilbert the guppy was the only one with a name. \"It's a terrible shame about your bird,\" Mrs. Lust would always say. \"Birds should never be kept in cages.\" But about the fish, she had no moral hesitation. No one knew the natural habitat of guppies, and I was not about to look it up in an encyclopedia."
+        }
+      ],
+      "tags": [],
+      "uuid": "49ce40f3-075f-4d6c-ae10-6d208a7e4e1e"
+    },
+    {
+      "start_time": 349,
+      "end_time": 371,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " After we had the guppy for about a month, Mrs. Lust changed boyfriends. The ironing incident had emboldened me, so I asked her what had happened. Mrs. Lust burst into tears, and said that men were all of a type, and that she hoped I would be different, but I wouldn't. [Audience Laughs] Seeing her face red and streaked with tears, I felt like crying myself."
+        }
+      ],
+      "tags": [],
+      "uuid": "845c60a0-c6db-4263-b1a1-4a2f4dac9b16"
+    },
+    {
+      "start_time": 371,
+      "end_time": 416.58002,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Before Mrs. Lust, there had been another babysitter, a 75-year-old woman called, even by herself, Mrs. Moulds. When we were promoted to Mrs. Lust, we had accepted the change with difficulty, but now faced with her actual tears, I had the sudden unwanted insight that Mrs. Lust was the adult versions of the children to whom my mother had devoted her career. By now, in health class, we had written essays on sex, drink and movies. My terrifying descriptions of their debilitating effects [Audience Laughs] were based on my fantasies about the tragic fate of Mrs. Lust. I began to see the world of Ottawa as divided into two camps."
+        }
+      ],
+      "tags": [],
+      "uuid": "b8a49dc5-05d0-4dd4-849b-ba578c1d0280"
+    },
+    {
+      "start_time": 416.58002,
+      "end_time": 443.92123,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " On the one hand, the civil servants and social workers, who were, by grace of their position, immune from the pestilences of desire. On the other hand, the great suffering mass of humanity. Into this latter camp, in their way, fit Benny the budgie and Gilbert the guppy. Since Mrs. Lust's change of boyfriends, Benny the budgie had regrown the feathers on his wings, but his chest remained bare."
+        }
+      ],
+      "tags": [],
+      "uuid": "8b4d1bf1-1032-4dde-ad3f-9b01000da6e9"
+    },
+    {
+      "start_time": 443.92123,
+      "end_time": 469,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " My father attributed this improvement to his daily exercise regime. He began to let Benny out in the morning, too. Once I was late for school, getting him back into his cage, and I ran the whole way trying to invent a more plausible excuse. When I arrived, I found the entire school standing in the middle of the football field as a result of a surprise fire drill. We also had atomic bomb drills."
+        }
+      ],
+      "tags": [],
+      "uuid": "2a79b1dc-bdc4-4b75-a402-c8f995b0185d"
+    },
+    {
+      "start_time": 469,
+      "end_time": 498,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Crouched on my knees, hands laced behind my neck to protect vital nerve centers, I would wonder if fish and birds might take over the world after the rest of us had been fried. Mrs. Lust's new boyfriend, whose name was Albert, liked to discuss these matters with me. Watching Gilbert flash back and forth in his tank, usually handicap by fins half chewed by the more aggressive of his playmates, we would talk about life after the bomb."
+        }
+      ],
+      "tags": [],
+      "uuid": "d17ac47f-96b3-42e3-afb6-ed75a66d9252"
+    },
+    {
+      "start_time": 498,
+      "end_time": 513.805,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " \"The way I see it,\" Albert once said, \"a fresh start is never a bad thing. There's lots of unused land up north. Anyway, plenty of room for new cities.\" Under Albert's watchful eye, Gilbert swam acrobatically."
+        }
+      ],
+      "tags": [],
+      "uuid": "be1aee16-b75c-4432-bd19-67290ba37f19"
+    },
+    {
+      "start_time": 513.805,
+      "end_time": 539.0149,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " His bitten fins began to heal themselves. And so, what with Benny's improvement, a whole new epic of health and stability was launched. It seemed to my brother and I that a household, once virtually a concentration camp for pets, had now become a fecund and benevolent swamp of life. My parents, however, were entirely unaware of this fundamental change in our household."
+        }
+      ],
+      "tags": [],
+      "uuid": "176957ec-7ded-4872-b747-1d749b77b59e"
+    },
+    {
+      "start_time": 539.0149,
+      "end_time": 569.6395,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " There was only one thing that my mother noticed, and that was the lingering smell of Albert's cigarettes. My parents' enormous reasoning powers were such that my brother and I had long ago discovered a vital maxim: one slip and you're finished. Early one afternoon, just as Albert and I were launched into a cozy debate about post-nuclear geography, my mother made a surprise raid. \"Hide in the cupboard,\" I said to Albert as my mother raced up the stairs."
+        }
+      ],
+      "tags": [],
+      "uuid": "7dc5119e-714a-4704-b121-2d65c7e702f3"
+    },
+    {
+      "start_time": 569.6395,
+      "end_time": 618,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " But Albert simply dropped his cigarette into the aquarium and turned to face the music like a man. Meanwhile, falling in slow motion through the blue-dyed water of the tank, a cloud of gray-black ash. After a few minutes, the first burst was followed by amber particles of tobacco, drifting down from the floating hulk of Albert's filterless cigarette. As soon as Albert had disappeared, my mother sent myself and my brother to play outside. As we walked down the streets, we looked into the windows of the various neighbors. The budgie next door was sitting happily in the window, screeching \"bye bye!\" at the top of its lungs. Two houses down, Laurence Clapman was practicing scales on the piano, as he did two hours a day without fail."
+        }
+      ],
+      "tags": [],
+      "uuid": "1fbf5e0c-9c41-433b-85cc-564b89207c51"
+    },
+    {
+      "start_time": 618,
+      "end_time": 651.69885,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " And across from the Clapmans, Mrs. Gilstein was mowing her front lawn, sweat-soaked bandana wrapped around her head, in silent reproach to the neighborhood boys, like myself, who are unwilling to endure her curses for 50 cents an afternoon. When we got to the corner, we turned without speaking towards Seed's pool hall. When we arrived, we hesitated for a moment outside, then plunged into the forbidden world of sin and darkness. Inside were three pool tables, one of which was surrounded by the entire senior football team."
+        }
+      ],
+      "tags": [],
+      "uuid": "aac4c288-d043-400d-ae24-2253eb0439ae"
+    },
+    {
+      "start_time": 651.69885,
+      "end_time": 687.0241,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Beside the pool tables was a counter with Coke and Honeydew machines, and at the far end of the room were scattered a few arborite-top tables. Sitting at one of them was Albert. As soon as we came in the door, he saw us and waved us over. And as we approached, we could see that the man he was talking to was no stranger, but Mrs. Lust's first boyfriend. \"This here is Tom, my brother,\" Albert said. [Audience Laughs] \"G'day,\" Tom offered, \"how you been keeping?\" \"Bad day today,\" Albert said. He took a sip from his Coke, then opened his windbreaker and took out his cigarettes."
+        }
+      ],
+      "tags": [],
+      "uuid": "c66e723a-ee27-4544-8a6a-235b4e88cd54"
+    },
+    {
+      "start_time": 687.0241,
+      "end_time": 702.22003,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " \"Wanna smoke?\" \"No thanks,\" I said. \"Don't worry,\" Tom interjected, \"no women are allowed here.\" [Audience Laughs] \"Thank God,\" my brother said, his voice squeaking. He was 10 years old. [Audience Laughs]"
+        }
+      ],
+      "tags": [],
+      "uuid": "c95c9e3c-24db-4e6e-9288-9a774f86faa2"
+    },
+    {
+      "start_time": 702.22003,
+      "end_time": 723.70044,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " He took a cigarette and then, so did I. Albert offered us a match, and we sucked the smoke in expertly. We had already spent several years practicing on cigarettes stolen during my parents' New Year's Eve parties. \"She's a tough one,\" Albert said. \"You must be proud to have such a mother.\" \"Got to hand her that,\" Tom agreed."
+        }
+      ],
+      "tags": [],
+      "uuid": "9e7cc112-c171-4b10-aa7e-b1a92e52b5ab"
+    },
+    {
+      "start_time": 723.70044,
+      "end_time": 749.7354,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " \"I thought she was gonna kill me,\" Albert said. \"Yeah,\" Tom said, \"I wouldn't wanna cross her again. I thought she might yank the belt right out of my trousers and whip me on the living room floor the day she caught me.\" The mention of trousers reminded me of Mrs. Lust, and I began to feel depressed. \"If I got you into trouble,\" Albert offered, \"you can hide out at my place for a while.\" I tried to wonder where Albert's place might possibly be."
+        }
+      ],
+      "tags": [],
+      "uuid": "8f7e6eb0-39b4-47ec-88dc-3cc93f512e19"
+    },
+    {
+      "start_time": 749.7354,
+      "end_time": 775.5951,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Certainly not on the street of four-bedroom houses where we currently lived. Not even in the three-bedroom neighborhood we had previously inhabited. Or even in the two-bedroom rental units where Mrs. Moulds had been our guardian. The only place I could imagine him was in one of those abandoned cars that sometimes got left down by the river. \"You missed something when she caught Tom,\" Albert said. \"She said she was gonna hand him over to the police.\""
+        }
+      ],
+      "tags": [],
+      "uuid": "c31a041d-7204-44ae-a739-409d5644418e"
+    },
+    {
+      "start_time": 775.5951,
+      "end_time": 788.80505,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " \"What was he doing?\" I asked Albert. Because Albert had replaced Tom, I felt it would somehow be disloyal to speak to Tom directly. \"Hey,\" Tom said, \"I was only doing, what people do.\""
+        }
+      ],
+      "tags": [],
+      "uuid": "970f2111-705a-4c67-9bd8-2088ab6acfea"
+    },
+    {
+      "start_time": 788.80505,
+      "end_time": 825.0646,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " By the time my brother and I got home, my father had already arrived and was in the kitchen with my mother, helping her to prepare supper. During the evening, not a single word was said about Mrs. Lust, and so totally was the subject sealed over that I completely forgot about Gilbert and the cigarette butt, until after dinner, when my father began chasing the budgie about the living room. In these chases, I was always the helper. So even though my heart was pounding at the thought of Gilbert, adrift among the tobacco leaves, I was forced to play my usual part. This involved gently beating the drape with a broom."
+        }
+      ],
+      "tags": [],
+      "uuid": "c9fb2f57-c365-494e-907c-ad8eddf92f08"
+    },
+    {
+      "start_time": 825.0646,
+      "end_time": 855,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Benny always found folds to hide in, while my father made soft pigeon-like noises to seduce him back to his cage. \"You know,\" my father liked to say, \"birds are just like people. If you are reasonable to them, they will be reasonable to you.\" [Audience Laughs] On this particular evening, Benny was too upset to be reasonable, flying from drapes to bookcase to the framed French Impressionist prints my parents collected from Woolworth's."
+        }
+      ],
+      "tags": [],
+      "uuid": "13048c0a-a088-42ca-994b-39fb55d2ca2c"
+    },
+    {
+      "start_time": 855,
+      "end_time": 879.0362,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Benny the budgie became more agitated the more my father cooed and whistled. Squawking, cheeping, and smashing his newly feathered wings as he bumped around the living room, Benny went on such a rampage, that my father stood up and said, in that loud deep voice used only for disciplinary emergency, \"Benny, go to your cage.\" [Audience Laughs]"
+        }
+      ],
+      "tags": [],
+      "uuid": "8373610e-33b0-425e-85af-317245a9a591"
+    },
+    {
+      "start_time": 879.0362,
+      "end_time": 904.78564,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " But Benny only took another flight, this time landing on my mother's spectacles where, in his nervousness, he lost control of his bodily functions. My mother screamed. \"Benny!\" my father roared. He grabbed the broom from me, and with one powerful swipe, sent Benny flying from one of our matching ceramic table lamps towards the wall."
+        }
+      ],
+      "tags": [],
+      "uuid": "9ddcc87a-02aa-4adc-af32-534788ba4f33"
+    },
+    {
+      "start_time": 904.78564,
+      "end_time": 952.95306,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " And from the wall, as my father explained afterwards, he must have gone straight to budgie heaven. His body, however, remained in our living room. Crumpled on the floor, the fuzzy baby feathers of his wings folded pitifully over his bare chest, Benny lay in noble repose. Since his neck was not broken, my brother and I decided he must have died at a heart attack, caused by my father shouting at him. But our grief for Benny was softened by the knowledge that Benny, in his final mission, had taken some sort of revenge on my mother for banishing his friend Albert. It was only after an hour in the backyard, digging Benny's grave and telling stories about his life, that I was free to attend to Gilbert."
+        }
+      ],
+      "tags": [],
+      "uuid": "2f1a1c9b-0586-435c-a3b6-93d28ad1957c"
+    },
+    {
+      "start_time": 952.95306,
+      "end_time": 979,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Running up the stairs to my bedroom, I had already accepted the fact of his death. When I actually pressed my nose to the glass of the aquarium, I was shocked to see all of the other fish, bits of tobacco hanging like cigarettes from the corners of their lips, were floating belly up on the surface of the water. But Gilbert was cavorting in an acrobatic frenzy. Seeing me only inspired him further."
+        }
+      ],
+      "tags": [],
+      "uuid": "50c6213a-40ab-4838-94c5-65a7f12b4527"
+    },
+    {
+      "start_time": 979,
+      "end_time": 1026.4073,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " In a sudden dolphin-like burst of genius, Gilbert zoomed straight for the surface, rose through two of the bodies of his former tormentors, broke the surface of the water as he rose at least six inches above it, executed a perfect double flip with a twist and a half, and landed, fins first, on the hollowed remains of Albert's fateful butt. From this platform, with virtually no pause, he soared into the air once more, this time contenting himself with a double twist single flip jackknife dive into the depths of the aquarium, where he commenced to swim with the lazy grace of an emperor surveying a newly conquered domain. \"If only Albert were here,\" I thought. \"Maybe nuclear war isn't so bad after all.\""
+        }
+      ],
+      "tags": [],
+      "uuid": "9efe461a-b437-4f58-85be-b749bfe9f754"
+    },
+    {
+      "start_time": 1026.4073,
+      "end_time": 1054.1464,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " The next morning when I woke up, Gilbert was still swimming, though he obviously had a hangover. In fact, Gilbert lived for years, until after I left home, and it was only during the summer after my third year of university that he began to fade. By that time, many things had changed. Mrs. Lust, after two more boyfriends, had been fired, never to be replaced. My mother's eyes had cured themselves with age, and she no longer wore spectacles."
+        }
+      ],
+      "tags": [],
+      "uuid": "88d50867-2b5e-473b-acaf-6fb5c16d3f79"
+    },
+    {
+      "start_time": 1054.1464,
+      "end_time": 1077.8365,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " On the back of our house, projecting over the grave of Benny the budgie, a summer porch had been added. The daughter of the war widow had gotten pregnant, and was living in a trailer park in Smith Falls. The night Gilbert actually died, I wasn't even at home. I was down at the river in a car with a girlfriend, doing the sorts of things that I'd been warned against in health class."
+        }
+      ],
+      "tags": [],
+      "uuid": "085eb9e5-d002-4d5d-ab47-302549a60010"
+    },
+    {
+      "start_time": 1077.8365,
+      "end_time": 1109.2499,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " When I came back to the house, at dawn, my parents were in the living room, drinking coffee. They were dressed in dark suits and sunglasses, [Audience Laughs] smoking cigarettes. My father had already shaved. My mother wore a hat with a white veil. Gilbert was lying where they had found him, at the bottom of his tank. He had died with his eyes open, fine brown eyes, that even in his final moment had frozen into an expression of infinite love and regret."
+        }
+      ],
+      "tags": [],
+      "uuid": "ba2bc5e6-24f7-498d-92fd-f3756045f073"
+    },
+    {
+      "start_time": 1109.2499,
+      "end_time": 1120.535,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Thank you. [Audience Applauds]"
+        }
+      ],
+      "tags": [],
+      "uuid": "cd16dc13-e55c-4674-ab34-60feec1e74a5"
+    },
+    {
+      "start_time": 1120.535,
+      "end_time": 1141.2341,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Matt Cohen began his literary career just when Canadian literature was starting to ride the wave of nationalism that swept the country after Centennial year. In many ways a product of that boom in Canadian writing, I asked him when it was that he first became aware of the existence of the literary community that was beginning to emerge then."
+        }
+      ],
+      "tags": [],
+      "uuid": "e255ad68-c06e-4652-970d-a539d37fbfcd"
+    },
+    {
+      "start_time": 1141.2341,
+      "end_time": 1179.0875,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " The discovery of it was almost coincidental with the formation of it in its, say, in its more modern guise. Which is to say that, with a few other writers around Anansi and from elsewhere, I was one of the founding members of the Writers' Union. And so, and the Writers' Union has done a lot to form a certain aspect of the Canadian literary community. Not the publishing et cetera community, which of course is completely independent of the Writers' Union. But the Writers' Union, because it meets every year, has made — and because — it has encouraged so many public readings, has been a really crucial factor in writers meeting each other."
+        }
+      ],
+      "tags": [],
+      "uuid": "8306fa6b-898d-4e2e-9e46-c19dd8c85765"
+    },
+    {
+      "start_time": 1179.0875,
+      "end_time": 1191,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " So now every, like every writer in Canada has now met every other writer, if they care to join the Writers' Union anyway. You can fly to their meetings and everybody meets each other, for better or for worse."
+        }
+      ],
+      "tags": [],
+      "uuid": "6d45a987-0e01-4a1b-9757-f867670d4cc8"
+    },
+    {
+      "start_time": 1191,
+      "end_time": 1207.9734,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " So you think the organizational aspect of the literary community is very important. You're not an individual who says, \"Well, I'm a writer and I'm not a joiner. Those kinda things don't interest me.\""
+        }
+      ],
+      "tags": [],
+      "uuid": "ae5b0858-0467-4020-8d08-0dfc725950af"
+    },
+    {
+      "start_time": 1207.9734,
+      "end_time": 1232.6017,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Well, I think that it's fine to be that way, but I think that the country has, the literary community in the country has changed by the fact that everyone has met each other. It's probably changed for the better. But I don't think everyone has to join the Writers' Union, but I think it's done a valuable service. But I have — because writers feel, generally feel, so isolated in what they're doing."
+        }
+      ],
+      "tags": [],
+      "uuid": "83aef308-f123-4854-bf66-7f0f913957a2"
+    },
+    {
+      "start_time": 1232.6017,
+      "end_time": 1264,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Because there aren't that many writers, and they do feel very isolated. By meeting other people who are in the same situation as you, you realize, that although your art and little sentences and paragraphs, maybe, and, unique little bits of genius. The actual situation you're in is, it's a sociological situation, it's not an artistic situation, it's the sociological situation that is you're a self-employed person working for a publisher, who you can't control, writing books to an audience who you never see."
+        }
+      ],
+      "tags": [],
+      "uuid": "8af86c00-5bb8-4b2f-9114-e80ee4667a22"
+    },
+    {
+      "start_time": 1264,
+      "end_time": 1281.4631,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " And hoping that various fantasies turn into reality. So that is a real sort of sociological situation and it's good to know that there's other people, in the same place, and it's good to get together with them and try to improve working conditions a bit."
+        }
+      ],
+      "tags": [],
+      "uuid": "d31608c3-6c2c-441e-ad77-059987061663"
+    },
+    {
+      "start_time": 1281.4631,
+      "end_time": 1293.922,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Because, you know, the average, there's been a statistical study, the average full-time writer makes 7,000 dollars a year. And that is a very low pay, even during recessionary days."
+        }
+      ],
+      "tags": [],
+      "uuid": "4ad7b5de-cf59-4aff-be92-ecb50c6e8539"
+    },
+    {
+      "start_time": 1293.922,
+      "end_time": 1311.6846,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Do you not feel that a kind of bureaucratized Canadian literary elite has emerged in the last 10 years, people who get all the grants, who nominate each other for the grants or positions, or publish, review each other's books, that there's kind of an incestuousness to it all?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d50f72db-c97c-4e88-9e28-a5b86a7319f5"
+    },
+    {
+      "start_time": 1311.6846,
+      "end_time": 1355.7169,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Well, I think that's probably true that — but every country's literary scene is incestuous. And, Canada's is no better or worse than England's or the United States or France. Every entertainment scene, whether it's writing or film or theater, depends — or, you know, academia for that matter, depends heavily on favour trading, backstabbing, back biting, whatever. You know, people do each other favours, people do other people in, like, that's human nature. I agree, it's completely regrettable, but it's no different in writing than it is in every other arena."
+        }
+      ],
+      "tags": [],
+      "uuid": "c59506b7-6a26-41b8-bda4-5b22e131adb5"
+    },
+    {
+      "start_time": 1355.7169,
+      "end_time": 1384.2683,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " People try to promote themselves, do in their enemies, whatever. I think the best cure for it in Canada, is decentralization. That's obviously the best thing to have. You can't keep people from being friends with each other and trying to promote each other's work, but what you can do is have it not all happen in Toronto. I think the best thing would be for Alberta to have a really vital publishing situation, for example, or British Columbia or, you know, all sorts of places."
+        }
+      ],
+      "tags": [],
+      "uuid": "f51dd42d-f521-44c9-bf15-db179f5e11a9"
+    },
+    {
+      "start_time": 1384.2683,
+      "end_time": 1389.0492,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " And then there's room for different points of view and different ideas of what books are."
+        }
+      ],
+      "tags": [],
+      "uuid": "a4e04c80-f8ee-413d-9e46-a8b0c091d435"
+    },
+    {
+      "start_time": 1389.0492,
+      "end_time": 1400.7783,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " Have you sensed a development of regional identity in Canadian literature? You've lived in Edmonton for a period of time, and do you see a maturing process going on here?"
+        }
+      ],
+      "tags": [],
+      "uuid": "53d7dd92-915e-4338-8f2e-5fecdd503429"
+    },
+    {
+      "start_time": 1400.7783,
+      "end_time": 1429.8009,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " [Overlapping] I've lived on the West Coast a lot, too. Well, I think there always has been a mature cultural identity in the various regions. I don't think that the East was mature whereas the Prairies and the Coast were not. There've always been great Prairie writers, great West Coast writers, great Prairie painters, et cetera. This isn't something that's just come about."
+        }
+      ],
+      "tags": [],
+      "uuid": "25847414-5643-42a9-b45e-7ff83a82ba99"
+    },
+    {
+      "start_time": 1429.8009,
+      "end_time": 1476.0997,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " I think what's lacked, what's been lacking, is the institutionalized voice of the various regions. It's that, say in terms of publishing, since that's what we're talking about, that instead of just being Hurtig's or New West Press, there ought to be presses, cultural presses, with the financial backing that the big cultural presses in the East have. And that, I think, would be what would make a kind of harmonious regional situation exist. But I'm not a big believer in regionalism anyway. I mean, I think power should be decentralized, but I don't think, like, that the Prairie people are always saying, what do you think of Prairie writing?"
+        }
+      ],
+      "tags": [],
+      "uuid": "6118b316-f6d8-44e1-a2f2-3645c2f1c34d"
+    },
+    {
+      "start_time": 1476.0997,
+      "end_time": 1499.1161,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " As if, like, just because you look around and you see prairie, you're gonna write some kind of prairie book, as opposed to if you look and see the ocean, you're gonna write like a seaside book, or if you see Ontario, you're gonna write a Central Canadian book. I think that's incredibly narrow. In books or books, I mean, people who write prairie books, people who — at least, people who look around and see prairie, write wildly different kinds of books from each other."
+        }
+      ],
+      "tags": [],
+      "uuid": "8e9205ee-3758-4ede-a535-42e57b6a9a3c"
+    },
+    {
+      "start_time": 1499.1161,
+      "end_time": 1527.954,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Like every prairie book isn't the same. They're really different. It's true, you can look at them If you're an academic and say, \"Well, Prairie literature has something in common,\" but you could take any 10 things and look at them, and say they have something in common. I think it's — on the one hand, it's a way of trying to boost oneself, to say my region has something special, which it does, of course, but it also really restricts you because then you're left was saying, yay, Prairie literature, yay, West Coast literature, whatever."
+        }
+      ],
+      "tags": [],
+      "uuid": "c0e121c4-1807-450f-ab7e-db385486ad41"
+    },
+    {
+      "start_time": 1527.954,
+      "end_time": 1538.567,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Instead of taking the books for what they are. Like it's reducing books to geography. And I don't think you can do that to books, and I don't think it does them any favour."
+        }
+      ],
+      "tags": [],
+      "uuid": "92b3a160-d9f3-4685-a0ea-52b65f0de3b9"
+    },
+    {
+      "start_time": 1538.567,
+      "end_time": 1558.4294,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " This of course, raises the question of the role academia plays in Canadian literature, because you yourself have spent time at a university and most writers live on the fringes or within the university. Do you think that there are some — what are the positive aspects of this and what are the negative aspects?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8bd81f77-1094-41ce-a7c6-76cb847dea20"
+    },
+    {
+      "start_time": 1558.4294,
+      "end_time": 1587,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Well I think on the positive side, say for me, because I've never studied English or been part of an English department, one of the obvious positive sides is simply that it's a source of money. Don't forget, the university is only the really big institution in our whole society that has a lot of money that goes to the mind. Like, so there's some leftover for all sorts of fringe activities like writing, like painting, like having sculptors in residence, whatever."
+        }
+      ],
+      "tags": [],
+      "uuid": "051d18cd-4a37-411c-8add-5051f742a4bc"
+    },
+    {
+      "start_time": 1587,
+      "end_time": 1612,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " That is, it's an invaluable source. No, there — you know, no one else has that kind of money. There are no more big patrons of the arts, you know, private patrons. And those that do exist put all their money into opera or into the various performing arts. So the university is the patron of writers, just by dribbling out bits of money by mistake, here and there. So I think —"
+        }
+      ],
+      "tags": [],
+      "uuid": "ab1ba472-b677-4fe2-a867-240c2d21c0d4"
+    },
+    {
+      "start_time": 1612,
+      "end_time": 1632.6135,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " And also, it's the patron of writers in the sense that it's the patron of literature, because by having Canadian literature courses, not only is there a certain amount of book sales, which, because it's paperback, doesn't make that — I mean, it's good, but it's, you know, it's not going to support an industry — but it also creates readers of Canadian books."
+        }
+      ],
+      "tags": [],
+      "uuid": "86fe4746-f762-4ec6-93c9-24716df96cbe"
+    },
+    {
+      "start_time": 1632.6135,
+      "end_time": 1658.4558,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " And so, no matter how many — there's a lot of arguments against the way Canadian literature is taught in different places, but one has to realize that outside of the university, Canadian literature isn't taught at all. Like, it's not taught in car factories, it's not taught, you know, in a Massey Ferguson factory, like it's only taught in the universities, a little bit in high school. So, I mean, one has to realize that universities are really playing a positive role."
+        }
+      ],
+      "tags": [],
+      "uuid": "7920a202-09fe-461d-b5b8-0e75f63da70c"
+    },
+    {
+      "start_time": 1658.4558,
+      "end_time": 1701.2196,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " On the other hand, I think university criticism, literary criticism as practiced in the university, has had a very destructive effect, on reviewing and criticism in general. So on the one hand, the university does the great thing of supporting some writers and, creating some readers, but it's made them look at the literature through incredibly weird lenses. I do think that that this whole idea of thematic criticism, which is so dominant, and the idea of reviewing books, the way books are reviewed and looked at, which often by academics, I think often really puts off more readers."
+        }
+      ],
+      "tags": [],
+      "uuid": "e56cc290-d2e1-4f5e-be3a-8c2708c78cc4"
+    },
+    {
+      "start_time": 1701.2196,
+      "end_time": 1721,
+      "annotation": [
+        {
+          "text": "Matt Cohen:",
+          "bold": true
+        },
+        {
+          "text": " Because the books are examples of this or that. Books are always an example of a theory or idea instead of being themselves. And I think that's, you know, books have to be encountered naked, as themselves, and that's the way reviewers should present books, and that's the way readers should feel free to approach them."
+        }
+      ],
+      "tags": [],
+      "uuid": "09400bc3-eb0e-44f0-8063-e2e953058efd"
+    },
+    {
+      "start_time": 1721,
+      "end_time": 1759.8407,
+      "annotation": [
+        {
+          "text": "Jars Balan:",
+          "bold": true
+        },
+        {
+          "text": " [Instrumental Brass] With that, we conclude this brief profile from the literary history of the University of Alberta. Be listening next week at the same time for another program in this series of broadcasts. The Celebrations theme is Fanfare La Peri by Dukas, as performed by the Gaelic Brass for Argo Records. Celebrations is a 75th anniversary production of the Department of Radio and Television at the University of Alberta. I'm your host, Jars Balan, bidding you a pleasant good evening. [Instrumental Brass]"
+        }
+      ],
+      "tags": [],
+      "uuid": "3bf77d3d-b68d-4949-a9b4-04c61df4b0f9"
+    }
+  ]
+}
