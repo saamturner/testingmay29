@@ -88,6 +88,22 @@
         }
       ],
       "uuid": "6cdc3a58-e6e7-423d-b409-e9e3de76adb3"
+    },
+    {
+      "start_time": 126,
+      "end_time": 245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n<a href=\"av-annotate.org/\">Visit AVAnnotate's website!</a>\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ba928613-e64f-493a-8426-75a478b3a65d"
     }
   ],
   "set": "Default",
