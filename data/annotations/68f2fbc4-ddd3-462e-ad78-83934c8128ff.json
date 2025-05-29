@@ -75,7 +75,16 @@
           "text": "Balan and Cohen discuss importance of literary community"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Format",
+          "tag": "audio"
+        },
+        {
+          "category": "Location",
+          "tag": "spokenweb"
+        }
+      ],
       "uuid": "7a42b9de-c67b-4c2d-aedc-64a85baaec7e"
     },
     {
