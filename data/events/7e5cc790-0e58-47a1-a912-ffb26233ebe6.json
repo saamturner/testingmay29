@@ -3,7 +3,12 @@
     "499bfb03-0e79-468c-b0ef-86c9570541e0": {
       "label": "AV File 1",
       "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/134/052/original/1985-99-16-a.wav?1660911201",
-      "duration": 1815.82367
+      "duration": 1815.82367,
+      "set_sort": [
+        "95b1903e-6259-4efe-82e2-f9042e400bf8",
+        "68f2fbc4-ddd3-462e-ad78-83934c8128ff",
+        "e12e264c-6625-432e-a16f-8a501a63a372"
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -21,7 +26,7 @@
   "created_by": "saamturner",
   "item_type": "Audio",
   "label": "Celebrations: Matt Cohen",
-  "updated_at": "2025-05-29T16:56:42.215Z",
+  "updated_at": "2025-05-29T17:04:36.835Z",
   "updated_by": "saamturner",
   "av_file_order": [
     "499bfb03-0e79-468c-b0ef-86c9570541e0"
