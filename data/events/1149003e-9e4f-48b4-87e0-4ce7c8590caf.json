@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "731c6834-78a4-47b2-b1df-920ac9183b52": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/256/046/original/SW141-a-cleaned.wav?1730828126",
+      "duration": 859.0123
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-29T16:48:13.134Z",
+  "created_by": "saamturner",
+  "item_type": "Audio",
+  "label": "Dorothy Livesay at [Unknown Location], [Date Unknown]",
+  "updated_at": "2025-05-29T16:48:13.134Z",
+  "updated_by": "saamturner"
+}
