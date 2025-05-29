@@ -1,1 +1,83 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"saamturner","avatar_url":"https://avatars.githubusercontent.com/u/157153031?v=4","admin":true}],"project":{"github_org":"saamturner","is_private":false,"title":"testing May 29","description":"testing May 29","language":"en","slug":"testingmay29","creator":"saamturner","authors":"","media_player":"avannotate","auto_populate_home_page":false,"additional_users":[],"tags":{"tagGroups":[{"color":"#99AFF2","category":"Format"},{"color":"#CBE364","category":"Location"}],"tags":[{"category":"Format","tag":"audio"},{"category":"Format","tag":"video"},{"category":"Location","tag":"spokenweb"}]},"created_at":"2025-05-29T15:11:36.577Z","updated_at":"2025-05-29T17:09:03.778Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"f0233575-6f41-40a5-a871-816f051844d2":{"content":[],"created_at":"2025-05-29T15:11:36.598Z","created_by":"saamturner","title":"testing May 29","updated_at":"2025-05-29T15:11:36.598Z","updated_by":"saamturner","autogenerate":{"enabled":false,"type":"home"}}},"pageOrder":["f0233575-6f41-40a5-a871-816f051844d2"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "saamturner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "saamturner",
+    "is_private": false,
+    "title": "testing May 29",
+    "description": "testing May 29",
+    "language": "en",
+    "slug": "testingmay29",
+    "creator": "saamturner",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [
+      {
+        "login_name": "absempere",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38816173?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#99AFF2",
+          "category": "Format"
+        },
+        {
+          "color": "#CBE364",
+          "category": "Location"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Format",
+          "tag": "audio"
+        },
+        {
+          "category": "Format",
+          "tag": "video"
+        },
+        {
+          "category": "Location",
+          "tag": "spokenweb"
+        }
+      ]
+    },
+    "created_at": "2025-05-29T15:11:36.577Z",
+    "updated_at": "2025-05-29T18:41:53.626Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "f0233575-6f41-40a5-a871-816f051844d2": {
+      "content": [],
+      "created_at": "2025-05-29T15:11:36.598Z",
+      "created_by": "saamturner",
+      "title": "testing May 29",
+      "updated_at": "2025-05-29T15:11:36.598Z",
+      "updated_by": "saamturner",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "f0233575-6f41-40a5-a871-816f051844d2"
+  ]
+}
