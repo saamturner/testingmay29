@@ -11,7 +11,16 @@
           "text": "Intro and theme music"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Format",
+          "tag": "audio"
+        },
+        {
+          "category": "Location",
+          "tag": "spokenweb"
+        }
+      ],
       "uuid": "fd6a5963-1e21-447e-934b-dee170548afe"
     },
     {
