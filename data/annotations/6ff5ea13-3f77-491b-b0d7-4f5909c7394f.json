@@ -26,6 +26,68 @@
         }
       ],
       "uuid": "3377d30c-4623-4d7a-9f85-815f9899f31c"
+    },
+    {
+      "start_time": 63,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "block-quote",
+          "children": [
+            {
+              "text": "dgiawiqebcua",
+              "bold": true,
+              "italic": true,
+              "underline": true,
+              "strikethrough": true,
+              "color": "#619eb8"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "color": "#619eb8",
+              "text": "testing text editor options"
+            }
+          ]
+        },
+        {
+          "type": "numbered-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "color": "#619eb8",
+                  "text": "annotation point 1"
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "color": "#619eb8",
+                  "text": "annotation point 2"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Location",
+          "tag": "spokenweb"
+        },
+        {
+          "category": "Format",
+          "tag": "video"
+        }
+      ],
+      "uuid": "6cdc3a58-e6e7-423d-b409-e9e3de76adb3"
     }
   ],
   "set": "Default",
