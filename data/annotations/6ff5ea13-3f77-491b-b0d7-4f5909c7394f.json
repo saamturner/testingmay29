@@ -97,7 +97,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\n<a href=\"av-annotate.org/\">Visit AVAnnotate's website!</a>\n\n",
+              "text": "\n<a href=\"https://av-annotate.org/\">Visit AVAnnotate's website!</a>\n\n",
               "code": true
             }
           ]
